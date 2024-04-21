@@ -5,13 +5,15 @@ body {
 }
   
 header {
-    background: lightpink;
+    background: rgb(59, 58, 58);
+    color: white;
     padding: 2rem;
     grid-column: 1 / 4;
 }
 
 nav {
     background: black;
+    
 }
   
 .left-sidebar {
@@ -31,6 +33,7 @@ main {
   
 footer {
     background: rgb(59, 58, 58);
+    color: white;
     padding: 2rem;
     text-align: center;
     grid-column: 1 / 4;
