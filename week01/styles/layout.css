@@ -57,6 +57,10 @@ main {
     padding: 20px;
 }
 
+.content img {
+    width: 20%;
+}
+
 aside {
     background-color: white;
     padding: 20px;
