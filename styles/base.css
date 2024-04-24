@@ -11,13 +11,16 @@ body {
 header {
     background-color: rgb(68, 67, 67);
     color: white;
-    padding-top: 10px;
 }
 
 h1 {
     margin: 0;
     height: 100px;
-    margin-left: 20px;
+    margin-left: 0;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 nav {
@@ -76,4 +79,5 @@ footer {
 
 footer p {
     color: white;
+    text-align: center;
 }
