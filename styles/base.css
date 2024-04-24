@@ -72,7 +72,15 @@ main {
 }
 
 .content {
-    padding: 20px;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 10px;
+    padding-right: 20px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 5px;
+    margin-bottom: 10px;
 }
 
 .content img {
@@ -82,7 +90,14 @@ main {
 
 aside {
     background-color: white;
-    padding: 20px;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 10px;
+    margin-top: 10px;
+    margin-left: 5px;
+    margin-right: 10px;
+    margin-bottom: 10px;
 }
 
 footer {
