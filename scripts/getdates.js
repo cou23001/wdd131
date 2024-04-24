@@ -8,3 +8,4 @@ function getDate() {
     return today;
 }
 
+document.getElementById("date").innerHTML = getDate();
