@@ -95,13 +95,13 @@ ol {
     display: block;
     padding: .4em .4em .4em .8em;
     margin: .5em 0 .5em 2.5em;
-    background: #D3D4DA;
-    color: #444;
+    background: rgb(8, 26, 74);
+    color: white;
     text-decoration: none;
     transition: all .3s ease-out;
   }
   
-  ol a:hover {background: #DCDDE1;}       
+  ol a:hover {background: rgb(15, 46, 129);}       
   ol a:before {
     content: counter(li);
     counter-increment: li;
@@ -109,7 +109,7 @@ ol {
     left: -2.5em;
     top: 50%;
     margin-top: -1em;
-    background: #f9dd94;
+    background: #3149e9;
     height: 2em;
     width: 2em;
     line-height: 2em;
@@ -129,6 +129,6 @@ ol {
   
   ol a:hover:after {
     left: -.5em;
-    border-left-color: #f9dd94;
+    border-left-color: #94b9f9;
   }
       
