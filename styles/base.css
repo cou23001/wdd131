@@ -96,6 +96,7 @@ main {
 .content img {
     width: 30%;
     margin-top: 20px;
+    margin-bottom: 20px;
     margin-left: auto;
 }
 
