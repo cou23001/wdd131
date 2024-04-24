@@ -9,7 +9,7 @@ body {
 }
 
 header {
-    background-color: rgb(68, 67, 67);
+    background-color: rgb(15, 46, 129);
     color: white;
 }
 
@@ -24,7 +24,7 @@ h1 {
 }
 
 nav {
-    background-color: black;
+    background-color: rgb(8, 26, 74);
     color: white;
     height: 50px;
     display: flex;
@@ -70,7 +70,7 @@ aside {
 }
 
 footer {
-    background-color: rgb(68, 67, 67);
+    background-color: rgb(15, 46, 129);
     height: 120px;
     padding: 5px;
     display: flex;
