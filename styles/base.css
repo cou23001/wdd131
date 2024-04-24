@@ -68,9 +68,12 @@ aside {
 
 footer {
     background-color: rgb(68, 67, 67);
-    color: white;
     height: 120px;
     padding: 5px;
     display: flex;
     justify-content: center;
+}
+
+footer p {
+    color: white;
 }
